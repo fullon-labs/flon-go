@@ -3,7 +3,7 @@ package system
 import (
 	"encoding/json"
 	"fmt"
-	flon "github.com/fullon-labs/flon-go"
+	"github.com/fullon-labs/flon-go"
 	"io/ioutil"
 )
 

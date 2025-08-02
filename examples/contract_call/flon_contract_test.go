@@ -3,7 +3,7 @@ package contract_call
 import (
 	"context"
 	"fmt"
-	flon "github.com/fullon-labs/flon-go"
+	"github.com/fullon-labs/flon-go"
 	"math/big"
 	"strconv"
 	"strings"

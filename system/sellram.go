@@ -1,6 +1,6 @@
 package system
 
-import flon "github.com/fullon-labs/flon-go"
+import "github.com/fullon-labs/flon-go"
 
 // NewSellRAM will sell at current market price a given number of
 // bytes of RAM.

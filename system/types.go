@@ -1,6 +1,6 @@
 package system
 
-import flon "github.com/fullon-labs/flon-go"
+import "github.com/fullon-labs/flon-go"
 
 // BlockchainParameters are all the params we can set through `setparams`.
 type BlockchainParameters struct {

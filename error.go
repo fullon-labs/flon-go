@@ -1,10 +1,8 @@
-package eos
+package flon
 
 import (
 	"fmt"
 	"strings"
-
-	"github.com/fullon-labs/flon-go/eoserr"
 )
 
 // APIError represents the errors as reported by the server

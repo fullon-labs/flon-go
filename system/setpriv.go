@@ -1,6 +1,6 @@
 package system
 
-import flon "github.com/fullon-labs/flon-go"
+import "github.com/fullon-labs/flon-go"
 
 // NewSetPriv returns a `setpriv` action that lives on the
 // `flon.bios` contract. It should exist only when booting a new

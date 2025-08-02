@@ -1,4 +1,4 @@
-package eos_test
+package flon_test
 
 import (
 	"bytes"

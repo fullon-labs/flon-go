@@ -1,6 +1,6 @@
 package system
 
-import flon "github.com/fullon-labs/flon-go"
+import "github.com/fullon-labs/flon-go"
 
 // NewSetalimits sets the account limits. Requires signature from `flon@active` account.
 func NewSetalimits(account flon.AccountName, ramBytes, netWeight, cpuWeight int64) *flon.Action {

@@ -1,6 +1,6 @@
 package system
 
-import flon "github.com/fullon-labs/flon-go"
+import "github.com/fullon-labs/flon-go"
 
 // NewDelegateBW returns a `delegatebw` action that lives on the
 // `flon.system` contract.

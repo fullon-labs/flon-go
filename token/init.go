@@ -1,6 +1,6 @@
 package token
 
-import flon "github.com/fullon-labs/flon-go"
+import "github.com/fullon-labs/flon-go"
 
 func init() {
 	flon.RegisterAction(AN("flon.token"), ActN("transfer"), Transfer{})

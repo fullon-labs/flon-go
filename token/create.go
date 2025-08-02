@@ -1,6 +1,6 @@
 package token
 
-import flon "github.com/fullon-labs/flon-go"
+import "github.com/fullon-labs/flon-go"
 
 func NewCreate(issuer flon.AccountName, maxSupply flon.Asset) *flon.Action {
 	return &flon.Action{

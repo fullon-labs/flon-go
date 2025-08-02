@@ -1,6 +1,6 @@
 package system
 
-import flon "github.com/fullon-labs/flon-go"
+import "github.com/fullon-labs/flon-go"
 
 // NewLinkAuth creates an action from the `flon.system` contract
 // called `linkauth`.

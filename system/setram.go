@@ -1,6 +1,6 @@
 package system
 
-import flon "github.com/fullon-labs/flon-go"
+import "github.com/fullon-labs/flon-go"
 
 func NewSetRAM(maxRAMSize uint64) *flon.Action {
 	a := &flon.Action{

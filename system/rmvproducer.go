@@ -1,6 +1,6 @@
 package system
 
-import flon "github.com/fullon-labs/flon-go"
+import "github.com/fullon-labs/flon-go"
 
 // NewRemoveProducer returns a `rmvproducer` action that lives on the
 // `flon.system` contract.  This is to be called by the consortium of

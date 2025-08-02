@@ -1,4 +1,4 @@
-package eoserr
+package flonerr
 
 import "fmt"
 

@@ -1,4 +1,4 @@
-package eos
+package flon
 
 import (
 	"crypto/sha256"

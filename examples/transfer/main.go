@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/hex"
 	"fmt"
-	flon "github.com/fullon-labs/flon-go"
+	"github.com/fullon-labs/flon-go"
 	"github.com/fullon-labs/flon-go/token"
 )
 

@@ -1,5 +1,7 @@
 package sudo
 
+import "github.com/fullon-labs/flon-go"
+
 // NewExec creates an `exec` action, found in the `eosio.wrap`
 // contract.
 //

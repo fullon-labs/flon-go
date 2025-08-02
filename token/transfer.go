@@ -1,6 +1,6 @@
 package token
 
-import flon "github.com/fullon-labs/flon-go"
+import "github.com/fullon-labs/flon-go"
 
 func NewTransfer(from, to flon.AccountName, quantity flon.Asset, memo string) *flon.Action {
 	return &flon.Action{

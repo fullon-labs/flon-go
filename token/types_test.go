@@ -3,7 +3,7 @@ package token
 import (
 	"encoding/hex"
 	"fmt"
-	flon "github.com/fullon-labs/flon-go"
+	"github.com/fullon-labs/flon-go"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

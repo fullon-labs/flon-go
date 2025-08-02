@@ -1,6 +1,6 @@
 package system
 
-import flon "github.com/fullon-labs/flon-go"
+import "github.com/fullon-labs/flon-go"
 
 func NewSetRAMRate(bytesPerBlock uint16) *flon.Action {
 	a := &flon.Action{

@@ -1,6 +1,6 @@
 package system
 
-import flon "github.com/fullon-labs/flon-go"
+import "github.com/fullon-labs/flon-go"
 
 func NewActivateFeature(featureDigest flon.Checksum256) *flon.Action {
 	return &flon.Action{

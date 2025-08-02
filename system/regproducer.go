@@ -1,7 +1,7 @@
 package system
 
 import (
-	flon "github.com/fullon-labs/flon-go"
+	"github.com/fullon-labs/flon-go"
 	"github.com/fullon-labs/flon-go/ecc"
 )
 
