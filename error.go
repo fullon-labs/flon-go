@@ -2,6 +2,7 @@ package flon
 
 import (
 	"fmt"
+	"github.com/fullon-labs/flon-go/flonerr"
 	"strings"
 )
 
@@ -17,7 +18,7 @@ type APIError struct {
 	} `json:"error"`
 }
 
-func NewAPIError(httpCode int, msg string, e eoserr.Error) *APIError {
+func NewAPIError(httpCode int, msg string, e flonerr.Error) *APIError {
 	newError := &APIError{
 		Code:    httpCode,
 		Message: msg,

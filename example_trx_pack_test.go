@@ -5,6 +5,7 @@ import (
 	"context"
 	"encoding/hex"
 	"fmt"
+	"github.com/fullon-labs/flon-go"
 )
 
 func ExamplePackedTransaction_Pack() {

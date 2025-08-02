@@ -3,6 +3,7 @@ package flon_test
 import (
 	"encoding/hex"
 	"fmt"
+	"github.com/fullon-labs/flon-go"
 	"strings"
 )
 

@@ -3,6 +3,7 @@ package flon_test
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/fullon-labs/flon-go"
 )
 
 func ExamplePackedTransaction_Unpack() {

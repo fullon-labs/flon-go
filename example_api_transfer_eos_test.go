@@ -5,6 +5,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
+	"github.com/fullon-labs/flon-go"
 	"os"
 
 	"github.com/fullon-labs/flon-go/token"

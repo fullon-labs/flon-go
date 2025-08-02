@@ -4,6 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
+	"github.com/fullon-labs/flon-go"
 )
 
 func ExampleAPI_GetInfo() {
