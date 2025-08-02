@@ -3,7 +3,7 @@ module github.com/fullon-labs/flon-go
 go 1.17
 
 require (
-	github.com/fullon-labs/flon-go v0.10.7
+	github.com/jarcoal/httpmock v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/streamingfast/logging v0.0.0-20221209193439-bff11742bf4c
 	github.com/stretchr/testify v1.7.0
@@ -15,7 +15,6 @@ require (
 require (
 	github.com/blendle/zapdriver v1.3.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/jarcoal/httpmock v1.2.0 // indirect
 	github.com/logrusorgru/aurora v2.0.3+incompatible // indirect
 	github.com/mitchellh/go-testing-interface v1.14.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
